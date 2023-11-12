@@ -1,4 +1,5 @@
 @ECHO OFF
+:: v2.0
 :: to execute as expected, requires python 3.x
 
 :start
