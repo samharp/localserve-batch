@@ -24,9 +24,9 @@ php -S localhost:8000
 
 In a lot of use cases, you won't see anything different between the two. However, in my experience, the Python local server more accurately shows file paths in the same way an actual server would; but the PHP one is needed if your website is actually built in PHP. So try both of them out, see what you like - both will serve your HTML and CSS just fine.
 
-### What about version 1.0 vs. 2.0?
+### What about v1.0 vs. v2.0?
 
-Version 1.0 simply hosts the directory on a local server, Version 2.0 includes a prompt that allows user to trigger their default browser to the address of the local server. I decided to make this distinction simply because some of my projects include the Version 1.0 and I was confused as to why I wasn't being prompted to open my browser (wha wha whaaa).
+v1.0 simply hosts the directory on a local server, v2.0 includes a prompt that allows user to trigger their default browser to the address of the local server. I decided to make this distinction simply because some of my projects include the v1.0 and I was confused as to why I wasn't being prompted to open my browser (wha wha whaaa).
 
 
 **NOTES:**
