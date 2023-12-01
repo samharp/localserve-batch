@@ -17,8 +17,8 @@ goto start
 
 :no
 echo Skipped...
-clear
-GOTO
+cls
+GOTO startServer
 
 :yes
 echo Opening browser...
